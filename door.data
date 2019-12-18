@@ -1,0 +1,5 @@
+classes = 2
+train = E:/darknet/test/rep_train.list
+valid = E:/darknet/test/rep_test.list
+names = E:/darknet/test/labels.txt
+backup = E:/darknet/test/backup/
